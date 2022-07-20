@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho em uma empresa de E-Commerce
 - 🌱 Estudando Programação
 - 👯 Estou disposto a colaborar com tudo que estiver ao meu alcance
-- 🤔 Uma ajuda sempre será bem-vinda, disposto a aprender mais !
+- 🤔 Uma ajuda sempre será bem-vinda, sempre nom aprender mais !
 - 💬 Pergunte-me sobre o que quiser, e lhe responderei
 - 📫 Contate-me através do meu email n.alves2001@gmail.com ou Whatsapp +55 21 965469225
 - 😄 Pronomes: Ele/Dele
