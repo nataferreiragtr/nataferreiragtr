@@ -8,6 +8,8 @@
 - 📫 Contate-me através do meu email n.alves2001@gmail.com ou Whatsapp +55 21 965469225
 - 😄 Pronomes: Ele/Dele
 
+##
+
 <div>
   <a href="https://github.com/nataferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataferreiragtr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -27,6 +29,8 @@
   <a href="https://instagram.com/nataferreiragtr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:n.alves2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nat%C3%A3-alves-de-oliveira-ferreira-054145230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ##
  
   ![Snake animation](https://github.com/nataferreiragtr/nataferreiragtr/blob/output/github-contribution-grid-snake.svg)
  
