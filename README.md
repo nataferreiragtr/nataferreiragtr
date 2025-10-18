@@ -5,7 +5,7 @@
 - 👯 Estou disposto a colaborar com tudo que estiver ao meu alcance
 - 🤔 Uma ajuda sempre será bem-vinda, sempre bom aprender mais !
 - 💬 Pergunte-me sobre o que quiser, e lhe responderei
-- 📫 Contate-me através do meu email n.alves2001@gmail.com ou Whatsapp +55 21 965469225
+- 📫 Contate-me através do meu email n.alves2001@gmail.com ou Whatsapp +55 21 96546 9225
 - 😄 Pronomes: Ele/Dele
 
 ##
